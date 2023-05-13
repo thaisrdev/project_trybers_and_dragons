@@ -15,7 +15,7 @@ abstract class Race {
     return this.name;
   }
   
-  public get dexterity(): string {
+  public get dexterity(): number {
     return this.dexterity;
   }
   
